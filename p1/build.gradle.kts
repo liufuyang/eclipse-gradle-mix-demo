@@ -1,5 +1,5 @@
 plugins {
-  application
+  id("gradle.test.java-application-conventions")
 }
 
 group = "com.example"
